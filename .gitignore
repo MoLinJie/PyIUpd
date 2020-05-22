@@ -1,0 +1,9 @@
+.idea
+*.ipr
+*.iml
+*.iws
+
+view
+/.idea
+/venv
+/__pycache__
